@@ -1,3 +1,3 @@
 # CEHv11
 
-#CEH v11 and CEH Practical Study material
+CEH v11 and CEH Practical Study material
